@@ -14,6 +14,11 @@ Catalog of visible stars:
 https://github.com/astronexus/ATHYG-Database/tree/main
 
 
+Reference for Gaia Magnitude measurement:
+https://www.researchgate.net/publication/264742888_Enabling_Gaia_observations_of_naked-eye_stars
+
+https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_overview
+
 
 
 
